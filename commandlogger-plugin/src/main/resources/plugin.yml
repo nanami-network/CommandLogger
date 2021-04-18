@@ -1,0 +1,9 @@
+name: CommandLogger
+version: @version@
+main: xyz.n7mn.dev.commandlogger.CommandLogger
+prefix: CMDLog
+authors: [ ClockClap ]
+
+commands:
+  toggle-commandlog:
+    aliases: ["toggle-cmdlog", "toggle-clog", "toggle-cl", "cl", "clog", "cmdlog"]
