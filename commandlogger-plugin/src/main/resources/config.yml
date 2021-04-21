@@ -1,0 +1,16 @@
+#Discord BOTのトークン
+token: ''
+
+#ログを出力させるチャンネルのID
+channel: 000000000000000000
+
+#コマンドログを表示させる権限レベル
+loglevel: 7
+
+mysql:
+  server: 'localhost'
+  port: 3306
+  username: ''
+  password: ''
+  database: ''
+  option: '?allowPublicKeyRetrieval=true&useSSL=false'
